@@ -1,4 +1,4 @@
-package cloudflare
+package api
 
 type CloudflareListResponse struct {
   Request struct {

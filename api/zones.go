@@ -1,4 +1,4 @@
-package cloudflare
+package api
 
 import (
 	"errors"
